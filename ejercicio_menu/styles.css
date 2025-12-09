@@ -98,6 +98,7 @@ span{
 }
 
 .header__logo-container-asus{
+    display: flex;
     width: auto;  
     height: auto;
 }
