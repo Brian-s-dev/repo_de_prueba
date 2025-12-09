@@ -102,3 +102,7 @@ span{
     width: auto;  
     height: auto;
 }
+
+.profile_icon svg path{
+    fill: var(--main-text-color);
+}
